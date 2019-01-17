@@ -1790,10 +1790,9 @@
 #u96_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:12px;
+  top:10px;
+  width:150px;
   word-wrap:break-word;
 }
 #u97_img {
